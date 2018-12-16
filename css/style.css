@@ -1,0 +1,43 @@
+* {
+  font-family: Satisfy, monospace;
+  font-size: 24px;
+  align-content: center;
+  justify-content: center;
+  color: white;
+}
+
+body {
+  /* background-color: teal; */
+  background-color: #739bba;
+}
+
+.nav-item {
+  font-size: 24px;
+}
+
+.jumbotron {
+  /* background-color: lightseagreen; */
+  background-color: #bbd3e6;
+}
+
+.jumbotron h1 {
+  display: flex;
+  font-size: 80px;
+}
+
+.jumbotron p {
+  display: flex;
+  font-size: 32px;
+}
+
+.about h1 {
+  font-size: 42px;
+}
+
+.about h2 {
+  font-size: 32px;
+}
+
+.about ul li {
+  font-size: 32px;
+}
